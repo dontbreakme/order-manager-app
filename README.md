@@ -43,7 +43,20 @@ python -m unittest -v
 
 ## Скриншоты
 
-Сделай скрины вкладок приложения (Клиенты/Товары/Заказы/Аналитика/Импорт-Экспорт) и добавь в репозиторий (например, `docs/screens/`), потом вставь их в README.
+### Клиенты
+![Клиенты](docs/screens/customers.png)
+
+### Товары
+![Товары](docs/screens/products.png)
+
+### Заказы
+![Заказы](docs/screens/orders.png)
+
+### Аналитика
+![Аналитика](docs/screens/analytics.png)
+
+### Импорт / Экспорт
+![Импорт / Экспорт](docs/screens/import_export.png)
 
 ## Как выполнить требования из ТЗ
 
